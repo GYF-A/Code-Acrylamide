@@ -13,7 +13,7 @@ The repository includes the following three R script files:
     *   **Purpose**: Used to calculate the Estimated Daily Intake (EDI) of Acrylamide (AA) for different countries, based on urinary metabolites as exposure biomarkers.
 
 3.  **`urine2.R`**
-    *   **Purpose**: Calculates the Estimated Daily Intake (EDI) of Acrylamide (AA) across different countries, using urinary metabolites as exposure biomarkers. It also generates the sensitivity analysis plots based on the Fraction of Urinary Excretion (FUE).
+    *   **Purpose**: Calculates the Estimated Daily Intake (EDI) of Acrylamide (AA) across different countries, using urinary metabolites as exposure biomarkers. It also generates the sensitivity analysis plots based on the urinary excretion factor (FUE).
 
 ## Instructions for Use
 
@@ -32,3 +32,4 @@ The repository includes the following three R script files:
 
 ---
 *Last updated: January 18, 2026*
+
